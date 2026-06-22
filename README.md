@@ -35,6 +35,16 @@ Key personal and technical takeaways include:
 
 ---
 
+## 🌐 Industry Engagement & Professional Insights
+
+| Activity / Topic | Organizer / Company | Resource Link |
+| :--- | :--- | :--- |
+| Industrial Visit to PPG | PPG Coatings Malaysia | [View LinkedIn Post](https://www.linkedin.com/posts/safiyanursyahadah_on-7-april-i-visited-ppg-for-our-special-activity-7450576897131872257-Sapk?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEfmQUgB8bcPMjlQCvfVg7DNZ4erBSHeeJk) |
+| Industry Talk | iZeno | [View LinkedIn Post](https://www.linkedin.com/posts/safiyanursyahadah_industry-talk-by-izeno-13-may-2026-activity-7474768546061803521-rt5v?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEfmQUgB8bcPMjlQCvfVg7DNZ4erBSHeeJk) |
+| Industry Talk | Telekom Malaysia (TM) | [View LinkedIn Post](https://www.linkedin.com/posts/safiyanursyahadah_industry-talk-by-tm-20-may-2026-had-activity-7474769167959629824-Bx10?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEfmQUgB8bcPMjlQCvfVg7DNZ4erBSHeeJk) |
+
+---
+
 ## 🏭 Final Group Project Reflection: Recoverable Assets (RA) & Inventory Risk Management (IRM)
 
 ### 📄 [Medallion Pipeline Ingestion & Business Rule Cleansing]
